@@ -34,7 +34,7 @@ function Library:CreateWindow(windowname,windowinfo)
     fu8rj82n.ResetOnSpawn = false
     
     Frame.Parent = fu8rj82n
-    Frame.BackgroundColor3 = Color3.fromRGB(251, 15, 40)
+    Frame.BackgroundColor3 = Color3.fromRGB(30, 30, 38)
     Frame.BorderColor3 = Color3.fromRGB(20, 20, 20)
     Frame.BorderSizePixel = 0
     Frame.Position = UDim2.new(0.289808273, 0, 0.313227266, 0)
